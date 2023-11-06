@@ -5,7 +5,7 @@ Decrease the range of answer candidates and extract effective embeddings is requ
 we proposed HSVL-BERT a consist of a transformer with hierarchical syntactic and a speech act identification module for classifying question type.
 ![](./figs/dataflow.PNG)
 
-![](./figs/VLBERT-v2.PNG)
+![](./figs/VLBERT-v2.png)
 
 ### Data
 
