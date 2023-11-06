@@ -3,7 +3,7 @@
 ## Introduction
 Decrease the range of answer candidates and extract effective embeddings is required for visual question answering. 
 we proposed HSVL-BERT a consist of a transformer with hierarchical syntactic and a speech act identification module for classifying question type.
-![](./figs/dataflow.PNG)
+![](./figs/流程圖-v3.png)
 
 ![](./figs/VLBERT-v2.png)
 
